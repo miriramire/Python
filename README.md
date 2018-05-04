@@ -1,2 +1,2 @@
 # Python
-Python from Pluralsight
+Python from Pluralsight and maybe other websites
